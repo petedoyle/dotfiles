@@ -14,4 +14,5 @@
 [commit]
 	template = /Users/petedoyle/.stCommitMsg
 [alias]
-	lg = "log --all --graph --abbrev-commit --decorate --format='format:%m %C(dim white)%h%C(reset) - %C(#8854FB)%s%C(reset) %C(dim white)-%C(reset) %C(white)%an%C(reset) %C(dim white)(%ar)%C(reset)%C(auto)%d%C(reset)'"
+	lg = "log --all --abbrev-commit --decorate --format='format:%m %C(dim white)%h%C(reset) - %C(#8854FB)%s%C(reset) %C(dim white)-%C(reset) %C(white)%an%C(reset) %C(dim white)(%ar)%C(reset)%C(auto)%d%C(reset)'"
+	lga = "log --all --graph --abbrev-commit --decorate --format='format:%m %C(dim white)%h%C(reset) - %C(#8854FB)%s%C(reset) %C(dim white)-%C(reset) %C(white)%an%C(reset) %C(dim white)(%ar)%C(reset)%C(auto)%d%C(reset)'"
