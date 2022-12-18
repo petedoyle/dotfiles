@@ -1,2 +1,8 @@
 *
+!/.gitconfig
 !/.gitignore
+!/.gitignore_global
+!/.zshrc
+!/.zprofile
+!/Brewfile
+
