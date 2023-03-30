@@ -53,6 +53,7 @@ brew "tarsnap"
 brew "tree"
 brew "wget"
 brew "yarn"
+brew "ykman"
 cask "anki"
 cask "cron" # the calendar
 cask "descript"
