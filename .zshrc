@@ -105,6 +105,7 @@ export ANDROID_HOME=~/Library/Android/sdk
 export ANDROID_SDK_ROOT=~/Library/Android/sdk
 export ANDROID_AVD_HOME=~/.android/avd
 export PATH=$PATH:$ANDROID_HOME/platform-tools
+export PATH=$PATH:/Users/petedoyle/Library/Application\ Support/JetBrains/Toolbox/scripts
 
 alias st=stree
 
