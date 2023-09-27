@@ -95,6 +95,7 @@ cask "todoist"
 cask "twist"
 cask "visual-studio-code"
 cask "vlc"
+cask "wireshark"
 cask "zoom"
 
 # Fonts
