@@ -27,6 +27,7 @@ brew "imagemagick"
 brew "iperf3"
 brew "ipfs"
 brew "jq"
+brew "keyring" # the python library. Needed for ykman.
 brew "lerna"
 brew "libarchive"
 brew "libavif"
