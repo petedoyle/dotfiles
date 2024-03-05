@@ -1,7 +1,5 @@
 tap "homebrew/bundle"
-tap "homebrew/cask"
 tap "homebrew/cask-fonts"
-tap "homebrew/core"
 tap "lokalise/cli-2"
 tap "teamookla/speedtest"
 brew "awscli"
