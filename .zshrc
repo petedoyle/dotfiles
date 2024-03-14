@@ -104,7 +104,14 @@ export JAVA_HOME=$(/usr/libexec/java_home -v '1.11*')
 export ANDROID_HOME=~/Library/Android/sdk
 export ANDROID_SDK_ROOT=~/Library/Android/sdk
 export ANDROID_AVD_HOME=~/.android/avd
+
+# non-system ruby required for CocoaPods / kmp
+export PATH=/opt/homebrew/opt/ruby/bin:$PATH
+
+# Android tools to path
 export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+# Jetbrains toolbox scripts to path
 export PATH=$PATH:/Users/petedoyle/Library/Application\ Support/JetBrains/Toolbox/scripts
 
 alias st=stree
