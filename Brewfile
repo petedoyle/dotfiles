@@ -79,6 +79,8 @@ cask "duet"
 cask "figma"
 cask "firefox"
 cask "flux"
+cask "font-inter"
+cask "font-roboto"
 cask "google-chrome"
 cask "handbrake"
 cask "hex-fiend"
@@ -103,10 +105,6 @@ cask "visual-studio-code"
 cask "vlc"
 cask "wireshark"
 cask "zoom"
-
-# Fonts
-cask "font-inter"
-cask "font-roboto"
 
 # Mac App Store
 # Search for more with `mas search [name]`
