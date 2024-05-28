@@ -60,6 +60,7 @@ brew "ruby"
 brew "rust"
 brew "s3cmd"
 brew "scrcpy"
+brew "sshpass" # required for ansible
 brew "subversion" # required for fetching fonts
 brew "swagger-codegen"
 brew "tarsnap"
