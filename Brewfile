@@ -96,7 +96,7 @@ cask "obsidian"
 cask "proxyman"
 cask "raspberry-pi-imager"
 cask "shureplus-motiv"
-cask "sizeup"
+cask "sizeup" # key in email
 cask "slack"
 cask "sourcetree"
 cask "spotify"
