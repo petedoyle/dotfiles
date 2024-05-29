@@ -73,6 +73,7 @@ brew "yarn"
 brew "ykman"
 cask "anki"
 cask "cron" # the calendar
+cask "daisydisk"
 cask "descript"
 cask "discord"
 cask "docker"
