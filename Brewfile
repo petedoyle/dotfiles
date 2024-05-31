@@ -70,6 +70,7 @@ brew "xcode-kotlin"
 brew "yarn"
 brew "ykman"
 cask "anki"
+cask "balenaetcher"
 cask "cron" # the calendar
 cask "daisydisk" # key in email
 cask "descript"
