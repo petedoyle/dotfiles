@@ -72,6 +72,7 @@ brew "ykman"
 cask "anki"
 cask "balenaetcher"
 cask "cron" # the calendar
+cask "cursor" # cursor.sh
 cask "daisydisk" # key in email
 cask "descript"
 cask "discord"
