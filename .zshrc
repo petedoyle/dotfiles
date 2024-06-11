@@ -114,6 +114,9 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 # Jetbrains toolbox scripts to path
 export PATH=$PATH:/Users/petedoyle/Library/Application\ Support/JetBrains/Toolbox/scripts
 
+# Cargo / rust
+export PATH=$PATH:/Users/petedoyle/.cargo/bin
+
 alias st=stree
 
 # Prevent the Android emulator from messing with audio
