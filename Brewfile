@@ -29,6 +29,7 @@ brew "ipfs"
 brew "jq"
 brew "kdoctor"
 brew "keyring" # the python library. Needed for ykman.
+brew "ktlint"
 brew "lerna"
 brew "libarchive"
 brew "libavif"
