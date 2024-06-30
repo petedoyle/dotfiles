@@ -57,7 +57,7 @@ brew "python@3.9"
 brew "rav1e"
 brew "ruby"
 brew "rust"
-brew "rustup"
+brew "rustup-init"
 brew "s3cmd"
 brew "scrcpy"
 brew "subversion" # required for fetching fonts
