@@ -128,3 +128,9 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 autoload zmv
+
+# ADB shortcuts
+## Theme light:
+alias tl='adb shell "cmd uimode night no"'
+## Theme dark:
+alias td='adb shell "cmd uimode night yes"'
