@@ -117,6 +117,9 @@ export PATH=$PATH:/Users/petedoyle/Library/Application\ Support/JetBrains/Toolbo
 # Cargo / rust
 export PATH=$PATH:/Users/petedoyle/.cargo/bin
 
+# Python / pipx
+export PATH=$PATH:/Users/petedoyle/.local/bin
+
 alias st=stree
 
 # Prevent the Android emulator from messing with audio
