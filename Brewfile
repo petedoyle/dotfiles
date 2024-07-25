@@ -58,8 +58,7 @@ brew "python@3.10"
 brew "python@3.9"
 brew "rav1e"
 brew "ruby"
-brew "rust"
-brew "rustup-init"
+brew "rustup-init" # to install rust, run: `rustup-init`
 brew "s3cmd"
 brew "scrcpy"
 brew "subversion" # required for fetching fonts
