@@ -20,4 +20,6 @@ config.colors = {
   visual_bell = '#202020',
 }
 
+config.enable_scroll_bar = true
+
 return config
