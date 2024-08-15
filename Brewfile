@@ -114,6 +114,7 @@ cask "twist"
 cask "utm"
 cask "visual-studio-code"
 cask "vlc"
+cask "wezterm"
 cask "wireshark"
 cask "zoom"
 
