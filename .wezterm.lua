@@ -7,9 +7,14 @@ local config = wezterm.config_builder()
 -- This is where you actually apply your config choices
 
 -- For example, changing the color scheme:
-config.color_scheme = 'AdventureTime'
+--config.color_scheme = 'MaterialOcean'
+config.color_scheme = 'Modus-Vivendi-Tinted'
+--config.color_scheme = 'catppuccin-mocha'
+--config.color_scheme = 'Chalk (base16)'
+--config.color_scheme = 'Chalk (dark) (terminal.sexy)'
+--config.color_scheme = 'iTerm2 Default'
 config.font = wezterm.font('Monaco')
-config.font_size = 12.0
+config.font_size = 13.0
 
 config.visual_bell = {
   fade_in_function = 'EaseIn',
