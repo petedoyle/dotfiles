@@ -137,3 +137,10 @@ autoload zmv
 alias tl='adb shell "cmd uimode night no"'
 ## Theme dark:
 alias td='adb shell "cmd uimode night yes"'
+
+# Prefer neovim
+alias vim="nvim"
+alias vi="nvim"
+alias oldvim="\vim"
+alias vimdiff='nvim -d'
+export EDITOR=nvim
