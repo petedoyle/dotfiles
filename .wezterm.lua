@@ -1,4 +1,5 @@
 local wezterm = require 'wezterm'
+local act = wezterm.action
 
 config = wezterm.config_builder()
 
@@ -21,6 +22,19 @@ config = {
 
   font = wezterm.font('Monaco'),
   font_size = 13.0,
+
+  keys = {
+    -- Clears the scrollback and viewport, and then sends CTRL-L to ask the
+    -- shell to redraw its prompt
+    {
+      key = 'k',
+      mods = 'SUPER',
+      action = act.Multiple {
+        act.ClearScrollback 'ScrollbackAndViewport',
+        act.SendKey { key = 'L', mods = 'CTRL' },
+      },
+    },
+  },
   
   visual_bell = {
     fade_in_function = 'EaseIn',
