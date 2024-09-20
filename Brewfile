@@ -78,6 +78,7 @@ brew "ykman"
 cask "anki"
 cask "balenaetcher"
 cask "bruno" # API client, like Postman or Insomnia
+cask "charles" # charles proxy
 cask "cron" # the calendar
 cask "cursor" # cursor.sh
 cask "daisydisk" # key in email
