@@ -93,6 +93,7 @@ cask "font-inter"
 cask "font-roboto"
 cask "gcc-arm-embedded"
 cask "google-chrome"
+cask "halloy" # irc client
 cask "handbrake"
 cask "hex-fiend"
 cask "insomnia"
