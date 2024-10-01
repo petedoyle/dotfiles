@@ -1,0 +1,41 @@
+# Halloy config.
+#
+# For a complete list of available options,
+# please visit https://halloy.squidowl.org/configuration/index.html
+
+[servers.levelsio]
+nickname = "pete"
+nick_password_file = "/Users/petedoyle/.config-secrets/password-halloy"
+realname = "Pete D. | X: @nomadicpete_"
+server = "irc.pieter.com"
+channels = ["#pieter"]
+port = 6667
+use_tls = false
+
+[sidebar]
+buffer_action = "replace-pane"
+buffer_focused_action = "close-pane"
+unread_indicators = "dot"
+position = "top"
+
+[buffer.channel.topic]
+enabled = true
+
+[buffer.server_messages.join]
+enabled = false
+
+[buffer.server_messages.part]
+enabled = false
+smart = 600
+
+[buffer.server_messages.quit]
+enabled = false
+smart = 600
+
+[font]
+family = "Menlo"
+size = 18
+
+[notifications]
+highlight = { sound = "dong" }
+direct_message = { sound = "peck", show_toast = true }
