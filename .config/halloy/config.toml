@@ -21,6 +21,9 @@ position = "top"
 [buffer.channel.topic]
 enabled = true
 
+[buffer.nickname]
+alignment = "right"
+
 [buffer.server_messages.join]
 enabled = false
 
