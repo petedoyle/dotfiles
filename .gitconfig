@@ -37,7 +37,7 @@
 
 [alias]
 	lg = "log --all --abbrev-commit --decorate --format='format:%m %C(dim white)%h%C(reset) - %C(#8854FB)%s%C(reset) %C(dim white)-%C(reset) %C(white)%an%C(reset) %C(dim white)(%ar)%C(reset)%C(auto)%d%C(reset)'"
-	lga = "log --all --graph --abbrev-commit --decorate --format='format:%m %C(dim white)%h%C(reset) - %C(#8854FB)%s%C(reset) %C(dim white)-%C(reset) %C(white)%an%C(reset) %C(dim white)(%ar)%C(reset)%C(auto)%d%C(reset)'"
+  lga = "log --all --graph --abbrev-commit --decorate --format='format:%C(#6e6779)%h%C(reset) %C(dim white)-%C(reset) %C(#8854FB)%s%C(reset) %C(dim white)-%C(reset) %C(white)%an%C(reset) %C(#b4acb9)(%ar)%C(reset)%C(auto)%d%C(reset)'"
 
 [filter "lfs"]
 	process = git-lfs filter-process
