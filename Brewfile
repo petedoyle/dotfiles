@@ -107,6 +107,7 @@ cask "obsidian"
 cask "opal-composer"
 cask "proxyman"
 cask "raspberry-pi-imager"
+cask "reflect" # Reflect Notes
 cask "shureplus-motiv"
 cask "sizeup" # key in email
 cask "slack"
@@ -141,7 +142,6 @@ mas "iMovie", id: 408981434
 # Davinci Resolve
 # Ohmyzsh
 # Readwise
-# Reflect.app
 # Signal
 # Whatsapp
 
