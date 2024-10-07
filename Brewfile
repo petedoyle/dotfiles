@@ -104,6 +104,7 @@ cask "linear-linear"
 cask "macdown"
 cask "obs"
 cask "obsidian"
+cask "opal-composer"
 cask "proxyman"
 cask "raspberry-pi-imager"
 cask "shureplus-motiv"
@@ -139,7 +140,6 @@ mas "iMovie", id: 408981434
 # Notes: Other things brew can't install (manually install them)
 # Davinci Resolve
 # Ohmyzsh
-# Opal camera
 # Readwise
 # Reflect.app
 # Signal
