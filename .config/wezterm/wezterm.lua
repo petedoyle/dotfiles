@@ -11,11 +11,12 @@ config = {
   },
 
   -- color_scheme = 'MaterialOcean',
-  color_scheme = 'Modus-Vivendi-Tinted',
+  -- color_scheme = 'Modus-Vivendi-Tinted',
   -- color_scheme = 'catppuccin-mocha',
   -- color_scheme = 'Chalk (base16)',
   -- color_scheme = 'Chalk (dark) (terminal.sexy)',
   -- color_scheme = 'iTerm2 Default',
+  color_scheme = 'Square',
 
   default_cursor_style = "SteadyBlock",
   enable_scroll_bar = true,
