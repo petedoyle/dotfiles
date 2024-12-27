@@ -94,6 +94,7 @@ cask "flux"
 cask "font-inter"
 cask "font-roboto"
 cask "gcc-arm-embedded"
+cask "ghostty"
 cask "google-chrome"
 cask "halloy" # irc client
 cask "handbrake"
