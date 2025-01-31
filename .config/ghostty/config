@@ -1,7 +1,7 @@
 #theme = Adventure
 #theme = Atom
 #theme = Banana Blueberry
-#theme = ChallengerDeep
+theme = ChallengerDeep
 #theme = Cyberpunk
 #theme = DoomOne
 #theme = Espresso
@@ -16,7 +16,7 @@
 #theme = PaulMillr
 #theme = Purple Rain
 #theme = SleepyHollow
-theme = Square
+#theme = Square
 #theme = catppuccin-macchiato 
 #theme = catppuccin-mocha
 #theme = gruber-darker
