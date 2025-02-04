@@ -28,6 +28,7 @@ brew "imagemagick"
 brew "iperf3"
 brew "ipfs"
 brew "jq"
+brew "just"
 brew "kdoctor"
 brew "keyring" # the python library. Needed for ykman.
 brew "ktlint"
