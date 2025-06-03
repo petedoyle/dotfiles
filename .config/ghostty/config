@@ -1,7 +1,7 @@
 #theme = Adventure
 #theme = Atom
 #theme = Banana Blueberry
-theme = ChallengerDeep
+#theme = ChallengerDeep
 #theme = Cyberpunk
 #theme = DoomOne
 #theme = Espresso
@@ -27,4 +27,5 @@ theme = ChallengerDeep
 #theme = rose-pine
 #theme = shades-of-purple
 #theme = synthwave-everything
-#theme = tokyonight
+theme = tokyonight
+keybind = shift+enter=text:\n
