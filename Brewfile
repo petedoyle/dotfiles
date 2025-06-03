@@ -73,7 +73,7 @@ brew "teamookla/speedtest/speedtest"
 brew "tesseract"
 brew "tree"
 brew "unbound"
-brew "urlwatch"
+#brew "urlwatch" # Use `pipx install urlwatch && pipx inject urlwatch jq` instead to allow use of urlwatch's jq filter
 brew "wget"
 brew "xcode-kotlin"
 brew "yarn"
