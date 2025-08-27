@@ -74,6 +74,7 @@ brew "tesseract"
 brew "tree"
 brew "unbound"
 #brew "urlwatch" # Use `pipx install urlwatch && pipx inject urlwatch jq` instead to allow use of urlwatch's jq filter
+brew "watch"
 brew "wget"
 brew "xcode-kotlin"
 brew "yarn"
