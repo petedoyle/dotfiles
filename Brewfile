@@ -62,6 +62,7 @@ brew "postgresql@14"
 brew "protobuf"
 brew "python@3.10"
 brew "python@3.9"
+brew "qsv"
 brew "rav1e"
 brew "ruby"
 brew "rustup" # to install rust, run: `rustup-init`
