@@ -66,6 +66,7 @@ brew "python@3.10"
 brew "python@3.9"
 brew "qsv"
 brew "rav1e"
+brew "ripgrep"
 brew "ruby"
 brew "rustup" # to install rust, run: `rustup-init`
 brew "s3cmd"
