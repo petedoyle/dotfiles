@@ -90,7 +90,6 @@ cask "balenaetcher"
 cask "bruno" # API client, like Postman or Insomnia
 cask "calibre"
 cask "cloudcompare" #3d point cloud viewer for LIDAR data
-cask "cron" # the calendar
 cask "cursor" # cursor.sh
 cask "daisydisk" # key in email
 cask "dbeaver-community" # postgres gui
@@ -115,6 +114,7 @@ cask "iterm2"
 cask "jetbrains-toolbox"
 cask "linear-linear"
 cask "macdown"
+cask "notion-calendar"
 cask "obs"
 cask "obsidian"
 cask "opal-composer"
