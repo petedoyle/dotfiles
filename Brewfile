@@ -58,6 +58,7 @@ brew "opencode"
 brew "openjdk"
 brew "openocd", args: ["HEAD"]
 brew "openssl@3"
+brew "opentofu"
 brew "pango"
 brew "pgpdump"
 brew "pidcat"
