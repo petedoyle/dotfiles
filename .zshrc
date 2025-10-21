@@ -147,3 +147,5 @@ export EDITOR=nvim
 
 # Read secrets into env
 [ -f ~/.dotfiles/.zshrc.secrets ] && source ~/.dotfiles/.zshrc.secrets
+
+alias tf="tofu"
