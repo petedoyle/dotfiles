@@ -88,6 +88,7 @@ brew "wget"
 brew "xcode-kotlin"
 brew "yarn"
 brew "ykman"
+cask "1password-cli"
 cask "anki"
 cask "balenaetcher"
 cask "bruno" # API client, like Postman or Insomnia
