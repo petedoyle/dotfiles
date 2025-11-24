@@ -129,7 +129,6 @@ cask "opal-composer"
 cask "proxyman"
 cask "raspberry-pi-imager"
 cask "reflect" # Reflect Notes
-cask "shureplus-motiv"
 cask "sizeup" # key in email
 cask "slack"
 cask "sourcetree"
