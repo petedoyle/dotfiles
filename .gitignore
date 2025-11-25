@@ -1,2 +1,4 @@
 *.lock.json
 .zshrc.secrets
+
+.config/op/config
