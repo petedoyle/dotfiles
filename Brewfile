@@ -131,6 +131,7 @@ cask "proxyman"
 cask "raspberry-pi-imager"
 cask "reflect" # Reflect Notes
 cask "sizeup" # key in email
+cask "sketchup"
 cask "slack"
 cask "sourcetree"
 cask "spotify"
