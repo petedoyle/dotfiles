@@ -112,6 +112,7 @@ cask "font-roboto"
 cask "freecad"
 cask "gcc-arm-embedded"
 cask "ghostty"
+cask "gimp"
 cask "google-chrome"
 cask "halloy" # irc client
 cask "handbrake-app"
