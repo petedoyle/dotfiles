@@ -31,12 +31,12 @@ brew "harfbuzz"
 brew "hugo"
 brew "imagemagick"
 brew "iperf3"
-brew "ipfs"
 brew "jq"
 brew "just"
 brew "kdoctor"
 brew "keyring" # the python library. Needed for ykman.
 brew "ktlint"
+brew "kubo" # ipfs
 brew "lerna"
 brew "libarchive"
 brew "libavif"
