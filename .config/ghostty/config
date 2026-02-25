@@ -29,3 +29,4 @@
 #theme = synthwave-everything
 theme = tokyonight
 keybind = shift+enter=text:\n
+scrollback-limit=16777216
