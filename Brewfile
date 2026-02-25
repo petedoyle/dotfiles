@@ -97,6 +97,7 @@ cask "bruno" # API client, like Postman or Insomnia
 cask "calibre"
 cask "cloudcompare" #3d point cloud viewer for LIDAR data
 cask "codex"
+cask "conductor"
 cask "cursor" # cursor.sh
 cask "daisydisk" # key in email
 cask "dbeaver-community" # postgres gui
