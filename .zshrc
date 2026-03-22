@@ -149,3 +149,6 @@ export EDITOR=nvim
 [ -f ~/.dotfiles/.zshrc.secrets ] && source ~/.dotfiles/.zshrc.secrets
 
 alias tf="tofu"
+
+# zsh completions for video-generator CLI
+source /Volumes/workspace/personal/youtube-ai-experimentation/bin/vidgen-completions.sh
