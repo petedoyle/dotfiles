@@ -49,6 +49,7 @@ brew "libusb"
 brew "mas"
 brew "minikube"
 brew "mtr"
+brew "mq" # A jq-like command-line tool for Markdown processing
 brew "neomutt"
 brew "neovim"
 brew "netpbm"
