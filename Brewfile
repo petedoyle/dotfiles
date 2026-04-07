@@ -94,6 +94,7 @@ brew "wget"
 brew "xcode-kotlin"
 brew "yarn"
 brew "ykman"
+brew "yq" # like jq, for yaml
 cask "1password-cli"
 cask "anki"
 cask "balenaetcher"
