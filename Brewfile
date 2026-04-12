@@ -158,6 +158,7 @@ cask "visual-studio-code"
 cask "vlc"
 cask "wezterm"
 cask "wireshark-app"
+cask "zed"
 cask "zoom"
 
 # Mac App Store
