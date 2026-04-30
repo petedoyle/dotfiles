@@ -100,7 +100,7 @@ cask "1password-cli"
 cask "anki"
 cask "balenaetcher"
 cask "basictex" # for pandoc
-cask "blender@lts"
+cask "blender"
 cask "bruno" # API client, like Postman or Insomnia
 cask "calibre"
 cask "claude" # Claude desktop
