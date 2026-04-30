@@ -103,6 +103,7 @@ cask "basictex" # for pandoc
 cask "blender@lts"
 cask "bruno" # API client, like Postman or Insomnia
 cask "calibre"
+cask "claude" # Claude desktop
 cask "cloudcompare" #3d point cloud viewer for LIDAR data
 cask "codex"
 cask "conductor"
