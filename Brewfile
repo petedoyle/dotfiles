@@ -134,7 +134,7 @@ cask "insomnia"
 cask "ipfs-desktop"
 cask "iterm2"
 cask "jetbrains-toolbox"
-cask "linear-linear"
+cask "linear" # bug tracking
 cask "logitech-options"
 cask "macdown"
 cask "manaflow-ai/cmux/cmux"
