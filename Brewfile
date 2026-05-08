@@ -41,6 +41,7 @@ brew "keyring" # the python library. Needed for ykman.
 brew "ktlint"
 brew "kubo" # ipfs
 brew "lerna"
+brew "lazygit"
 brew "libarchive"
 brew "libavif"
 brew "libbluray"
