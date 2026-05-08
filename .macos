@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+set -euxo pipefail
+
+# Disable the accent selector so key repeat works across all apps.
+# https://support.apple.com/guide/mac-help/enter-characters-with-accent-marks-on-mac-mh27474/mac
+defaults write -g ApplePressAndHoldEnabled -bool false
