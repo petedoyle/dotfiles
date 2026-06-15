@@ -154,6 +154,7 @@ cask "slack"
 cask "sourcetree"
 cask "spotify"
 cask "superwhisper"
+cask "tailscale-app"
 cask "tidal"
 cask "todoist-app"
 cask "tower"
@@ -174,7 +175,6 @@ mas "Notability", id: 360593530
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 #mas "Speedtest by Ookla", id: 1153157709
-mas "Tailscale", id: 1475387142
 #mas "Telegram", id: 747648890
 mas "Xcode", id: 497799835
 mas "iA Writer", id: 775737590
