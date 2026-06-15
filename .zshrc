@@ -152,3 +152,7 @@ alias tf="tofu"
 
 # zsh completions for video-generator CLI
 source /Volumes/workspace/personal/youtube-ai-experimentation/bin/vidgen-completions.sh
+
+
+# Added by Antigravity CLI installer
+export PATH="/Users/petedoyle/.local/bin:$PATH"
