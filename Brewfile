@@ -136,7 +136,7 @@ cask "ipfs-desktop"
 cask "iterm2"
 cask "jetbrains-toolbox"
 cask "linear" # bug tracking
-cask "logitech-options"
+cask "logi-options+"
 cask "macdown"
 cask "manaflow-ai/cmux/cmux"
 cask "muesli" # like Wispr Flow but free
