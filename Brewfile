@@ -101,6 +101,7 @@ cask "1password-cli"
 cask "anki"
 cask "balenaetcher"
 cask "basictex" # for pandoc
+cask "bettermouse"
 cask "blender"
 cask "bruno" # API client, like Postman or Insomnia
 cask "calibre"
@@ -136,7 +137,6 @@ cask "ipfs-desktop"
 cask "iterm2"
 cask "jetbrains-toolbox"
 cask "linear" # bug tracking
-cask "logi-options+"
 cask "macdown"
 cask "manaflow-ai/cmux/cmux"
 cask "muesli" # like Wispr Flow but free
