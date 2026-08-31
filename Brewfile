@@ -165,13 +165,16 @@ cask "zoom"
 
 # Mac App Store
 # Search for more with `mas search [name]`
+mas "DevCleaner", id: 1388020431
 mas "GarageBand", id: 682658836
 mas "Keynote", id: 409183694
 mas "Notability", id: 360593530
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Prime Video", id: 545519333
 #mas "Speedtest by Ookla", id: 1153157709
 #mas "Telegram", id: 747648890
+mas "VictronConnect", id: 1084677271
 mas "Xcode", id: 497799835
 mas "iA Writer", id: 775737590
 mas "iMovie", id: 408981434
