@@ -50,6 +50,7 @@ brew "librsvg"
 brew "libusb"
 brew "mas"
 brew "minikube"
+brew "minisign"
 brew "mtr"
 brew "mq" # A jq-like command-line tool for Markdown processing
 brew "neomutt"
