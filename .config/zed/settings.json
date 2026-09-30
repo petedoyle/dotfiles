@@ -45,7 +45,7 @@
     }
   },
   "project_panel": {
-    "dock": "right"
+    "dock": "left"
   },
   "outline_panel": {
     "dock": "right"
@@ -54,6 +54,7 @@
     "dock": "right"
   },
   "agent": {
+    "sidebar_side": "right",
     "dock": "left",
     "favorite_models": [],
     "model_parameters": []
